@@ -1,0 +1,8 @@
+prefix=/home/rover/devam_6otu/install
+
+Name: my_bot
+Description: Description of my_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
